@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hackmac89/flog/graphs/commit-activity)
 [![Golint code style](https://img.shields.io/badge/code_style-Golint-CFB69A.svg)](https://github.com/golang/lint)
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/crypto)](https://goreportcard.com/report/github.com/hackmac89/flog)
-[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/hackmac89/flog.svg?maxAge=2592000)](https://codecov.io/github/hackmac89/flog?branch=master)
+[![codecov](https://codecov.io/gh/hackmac89/flog/branch/master/graph/badge.svg)](https://codecov.io/gh/hackmac89/flog)
 [![Github all releases](https://img.shields.io/github/downloads/hackmac89/go-share/total.svg)](https://github.com/hackmac89/flog/releases/)
 
 ## Usage
@@ -40,6 +40,10 @@ logger.PrintError("Printing \"%s\" message", "ERRROR")
 
 ## Release History
 
+* 1.0.1 (05/20/19)
+    * Added License
+    * some changes in README.md
+
 * 1.0.0 (05/20/19)
     * Initial commit/release
 
@@ -55,7 +59,7 @@ See also the list of [contributors](https://github.com/hackmac89/go-share/contri
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Meta
 
